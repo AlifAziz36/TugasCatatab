@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#FF0000FF</color>
+    <color name="periwinkle">#FF9999FF</color>
+    <color name="light_turquoise">#FFCCFFFF</color>
+    <color name="iceblue">#FFCCCCFF</color>
+    <color name="ocean_blue">#FF0066CC</color>
+    <color name="dark_blue">#FF000080</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
